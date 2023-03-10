@@ -1,0 +1,18 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+
+#sandra{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+}
+#menu{
+    color: #07439c;
+}
+
+
+.navbar-brand{ 
+    color:#07439c
+}
